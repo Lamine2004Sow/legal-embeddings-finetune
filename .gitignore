@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Projet
+data/articles.parquet
+data/emb/
+data/test_batches/
+data/*.db
+checkpoints/
+models/
+mlflow.db
+mlruns/
