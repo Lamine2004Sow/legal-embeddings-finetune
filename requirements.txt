@@ -1,0 +1,16 @@
+# torch CPU s'installe à part : pip install torch --index-url https://download.pytorch.org/whl/cpu
+sentence-transformers==6.2.0
+transformers==5.20.2
+datasets==5.1.0
+accelerate==1.15.0
+peft==0.21.2
+mlflow==3.17.2
+pandas==3.1.0
+pyarrow==25.0.1
+numpy==2.5.4
+rank-bm25==0.2.2
+scikit-learn==1.9.1
+scipy==1.18.1
+openai==3.37.0
+python-dotenv==1.2.4
+pytest==9.1.1
