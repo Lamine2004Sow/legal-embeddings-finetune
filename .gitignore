@@ -228,3 +228,4 @@ checkpoints/
 models/
 mlflow.db
 mlruns/
+data/*.log
